@@ -1,0 +1,2 @@
+GOOGLE_API_KEY=AIzaSyCxhK5Vl2Hb-HMdGJ0NFr576xAyzfgoP6w
+-- This Api is valid up to 31/01/2026 use only for testing
