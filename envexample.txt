@@ -1,2 +1,2 @@
-GOOGLE_API_KEY=AIzaSyCxhK5Vl2Hb-HMdGJ0NFr576xAyzfgoP6w
+GOOGLE_API_KEY=Use Sample api key i con't provide it
 -- This Api is valid up to 31/01/2026 use only for testing
